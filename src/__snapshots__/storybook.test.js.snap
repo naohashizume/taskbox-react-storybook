@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Task archived 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
+
+exports[`Storyshots Task default 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
+
+exports[`Storyshots Task pinned 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
